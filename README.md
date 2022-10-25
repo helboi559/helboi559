@@ -1,6 +1,6 @@
 ### Hi there! 👋
 #### Take a look at my portfolio and checkout some of my work!
-##### [My Portfolio](https://juan-ramirez-portfolio.netlify.app/)
+### [My Portfolio](https://juan-ramirez-portfolio.netlify.app/)
 <!--
 **helboi559/helboi559** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
