@@ -1,4 +1,4 @@
-### Hi there! Im Juan 👋
+### Hi there! 👋
 - Take a look at my portfolio site for some of my work!
 [My Portfolio](https://juan-ramirez-portfolio.netlify.app/)
 <!--
